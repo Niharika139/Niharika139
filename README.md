@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niharika139
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter projects
+- 👀 I’m interested
+- 🌱 I’m currently 
+- 💞️ I’m looking 
 - 📫 How to reach me 
 - email id:-niharikagedam1309@gmail.com
 
